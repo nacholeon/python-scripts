@@ -4,8 +4,8 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 """Define global variables"""
-user = "ignacio.leon@netbraintech.com"
-pwd = "Nacho2019"
+user = "AAAAAAAAA"
+pwd = "BBBBBBBB"
 headers = {'Content-Type': 'application/json', 'Accept': 'application/json'}
 nb_url = "https://demo6.netbraintech.com"
 base_url = "https://demo6.netbraintech.com/ServicesAPI/API"
